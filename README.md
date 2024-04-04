@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I am currently working on building flutter and django based projects 
+🔭 I am currently working on building flutter and ML based projects 
 
 
 ## 🌐 Socials:
